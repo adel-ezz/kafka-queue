@@ -1,6 +1,5 @@
 {
     "name": "adelezz/kafka-queue",
-    "type": "library",
     "require": {
         "laravel/framework": "^10.13"
     },
